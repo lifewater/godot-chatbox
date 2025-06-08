@@ -4,7 +4,6 @@ extends Control
 @onready var inputLabel = get_node("PanelContainer/VBoxContainer/HBoxContainer/Label")
 @onready var inputEdit = get_node("PanelContainer/VBoxContainer/HBoxContainer/LineEdit")
 
-var group_index = 0
 var user_name = "LifeWater"
 
 func _ready():

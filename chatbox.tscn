@@ -32,6 +32,7 @@ size_flags_vertical = 3
 [node name="ScrollContainer" type="ScrollContainer" parent="PanelContainer/VBoxContainer"]
 layout_mode = 2
 size_flags_vertical = 3
+follow_focus = true
 horizontal_scroll_mode = 0
 script = ExtResource("2_ftylb")
 
